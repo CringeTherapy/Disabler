@@ -1,1 +1,1 @@
-ren C:\Users\252454\AppData\Roaming\GoGuardian .minecraft
+ren %appdata%\GoGuardian .minecraft
