@@ -68,7 +68,7 @@ TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):------------------------------------------
 
 TO GET ROBLOX--------------------------------------------------------------------------------------
 
-#Just open 2-Roblox, the only thing u have to do is follow the GoGuardian disabler steps. U will also 100% need to connect to a mobile hotspot unless u use apponfly.
+#Just open RobloxPlayerLauncher.exe, the only thing u have to do is follow the GoGuardian disabler steps. U will also 100% need to connect to a mobile hotspot unless u use apponfly.
 
 
 
