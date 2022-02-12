@@ -45,4 +45,4 @@
 
 #Changelog Beta v1.2.9:
 
-#New Tlauncher added but you can't use it yet without admin, I still have to add the Java.exe file for it to work. Also, I haven't added the Ghost Code (Which is what I'm calling the Appdata disguise code). Beta v1.3 will take a while, but it will have a ton of bugfixes and new games.
+#New Tlauncher added but you can't use it yet without admin, I still have to add the Java.exe file for it to work. Also, I haven't added the Ghost Code (Which is what I'm calling the Appdata disguise code). Beta v1.3 will take a while, but it will have a ton of bugfixes and new games. ALSO IN BETA v1.3 YOU CANNOT CLICK ON THE TLauncher-2.841.jar FILE BECAUSE IT WILL ASK FOR ADMIN. YOU HAVE TO CLICK THE 2-TLAUNCHER.BAT FILE.
