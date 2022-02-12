@@ -50,9 +50,11 @@ TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):------------------------------------------
 
 #So first, start by opening this google drive link https://doc-5c-9o-drive-data-export.googleusercontent.com/download/a3rb9j313c2ul2ofi0sfgd61ttp10mmt/0sho3gatvaj9406scc948s8e3od3027c/1644637500000/217e9cfc-9e2f-4619-8a74-3a4ad08b1f6a/113914931639690352649/ADt3v-Nsbhs1fHUb_ic4h0HyRWubVwME_YgXc-inww3ZOvO0-3cAzLj9gT1Km_jTqysYBhChOYKVYXdW87Z9PiAAXymoBT8G2duFZRaCcDsvUPwvcDEXmMo4aJjYFzTJJriEHEQImCDuDCW8A3_1jiIqmoBEEEB8Ngan1Po0khKsPCamIRigGuk-y6rKBAbDjPfVCaQoL6dv_vDMXlMp2CpjusCEJ_Zf4UizS8zfcJlg52EbFsW591VrqvGcpBh1lVZMeGzQOURRUoWy6Ir7O4A-Y6uqGd4wafiSCUCZAJqeDRBjH4fnkPwcxemkj0AqtXUC3Sc9KRZe?authuser=0&nonce=eulse53pnf226&user=113914931639690352649&hash=vekr5nodh3qa4me1efe32ba9ous64r2j
 
-#When u download it, just name it "runtime" with no capital letters or anything
+#When u download it, extract the zipped folder it made.
 
-#Now extract that and add it with all the other files like 1-start and stuff.
+#In the newly-created normal folder called runtime-(a ton of random letters and numbers here), there will be another folder called just runtime.
+
+#Copy the folder that is just called runtime, and paste it with all the other files like 1-start, 2-minecraft, etc.
 
 #After that click 2-Tlauncher. Then set a name for urself and click launch download. (to do this u have to have a phone and have ur hotspot connected to the computer, bug fix for that coming in Beta 1.3.9.5).
 
