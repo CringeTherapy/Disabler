@@ -1,5 +1,9 @@
 #Disabler Beta v1.3.9 Instructions FOR GOGUARDIAN
 
+For those of you who want to use windows on chromebook, just go to this website lol(the free trial doesnt need credit card):
+
+https://www.apponfly.com/windows-vps
+
 [#READ ALL OF THIS EVEN IF U JUST WANT TO DELETE GOGUARDIAN OR JUST WANT TO PLAY A GAME]
 
 Pls discord me if there are any problems with this (https://discord.gg/suGzyAnA)
