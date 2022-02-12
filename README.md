@@ -66,8 +66,29 @@ TO GET ROBLOX-------------------------------------------------------------------
 
 #Just open RobloxPlayerLauncher.exe, the only thing u have to do is follow the GoGuardian disabler steps. U will also 100% need to connect to a mobile hotspot unless u use apponfly.
 
+TO GET OLD ADOBE FLASH GAMES THAT DONT WORK ON COOLMATH ANYMORE------------------------------------
 
+#First, go to this link: https://download3.portableapps.com/portableapps/7-ZipPortable/7-ZipPortable_21.07.paf.exe?20190321
 
+#Next, follow the installation steps. The thing that you downloaded is called 7zip, but without admin permissions.
+
+#After that, go to this link and click the arrow going into the box button at the top right corner: https://drive.google.com/file/d/12cm8x1NLxgWdqb-yNT0ONj6PX0rfRGh3/view?usp=sharing.
+
+#Wait for it to download.
+
+#Click the arrow next to the download at the botton of the chrome window, and click show in folder.
+
+#right click on the downloaded file, and find the open with option. Choose 7zipportable.exe.
+
+Click the extract button.
+
+In your downloads folder, find the normal unzipped folder called flashpoint 10.1 infinity.
+
+Then click Start Flashpoint.
+
+Click disable all if a popup comes on ur screen.
+
+Now you can choose ANY GAME!!!!
 
 #Changelog Beta v1.3.9:
 
@@ -76,3 +97,5 @@ TO GET ROBLOX-------------------------------------------------------------------
 #NO-ADMIN TLAUNCHER (FREE MINECRAFT JAVA IN BETA v1.3), NO-ADMIN ROBLOX(IN BETA v1.4.1), AND NO-ADMIN ADOBE FLASH PLAYER WITH A TON OF OLD COOLMATH GAMES WHICH DONT WORK ON THE ACTUAL WEBSITE ANYMORE COMING SOON(IN ALPHA 1.0)!!!!
 
 Anytime you get the not safe screen, just click the underlined text and click run anyway, because u can see the code and its not bad at all lol.
+
+All the Ghost Code for the other games that aren't minecraft will be added in complete version 1.0
