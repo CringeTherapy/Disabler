@@ -1,4 +1,4 @@
-#Disabler Beta v1.4.1 Instructions FOR GOGUARDIAN
+#Disabler Alpha 1.0 Instructions FOR GOGUARDIAN
 
 #For those of you who want to use windows on chromebook, just go to this website lol(the free trial doesnt need credit card):
 
@@ -92,7 +92,7 @@ Click disable all if a popup comes on ur screen.
 
 Now you can choose ANY GAME!!!!
 
-#Changelog Beta v1.3.9:
+#Changelog Alpha v1.0:
 
 #ADDED JAVA and JLI.dll BUG FIX YAYYYY!!! It probably still won't work tho lol. Also ummm tlauncher isnt working on my home pc but my home pc sucks. OK UPDATE i fixed it lmaooo. it was a dumb error i didnt do a neccessary cmd L.
 
