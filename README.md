@@ -1,4 +1,4 @@
-#Disabler Beta v1.3.1 Instructions
+#Disabler Beta v1.3.9 Instructions
 
 [#READ ALL OF THIS EVEN IF U JUST WANT TO DELETE GOGUARDIAN OR JUST WANT TO PLAY A GAME]
 
@@ -65,7 +65,7 @@ TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):------------------------------------------
 
 
 
-#Changelog Beta v1.3/1.3.1:
+#Changelog Beta v1.3.9:
 
 #ADDED JAVA and JLI.dll BUG FIX YAYYYY!!! It probably still won't work tho lol. Also ummm tlauncher isnt working on my home pc but my home pc sucks. OK UPDATE i fixed it lmaooo. it was a dumb error i didnt do a neccessary cmd L.
 
