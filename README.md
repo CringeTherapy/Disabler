@@ -10,7 +10,7 @@
 
 #Now double-click on the newly created normal folder and open it.
 
-#BEFORE DOING ANYTHING AFTER THIS POINT, MAKE SuRE GOOGLE CHROME IS CLOSED!!!!
+#BEFORE DOING ANYTHING AFTER THIS POINT, MAKE SURE GOOGLE CHROME IS CLOSED!!!!
 
 #After closing Google Chrome, right click on the taskbar at the very bottom of your screen and click "task manager".
 
@@ -39,4 +39,4 @@
 
 #Make sure to delete the disabler file after pausing or ending it, then redownload it once you get back to the computer. (Althought, GoGuardian will be permanently deleted from the computer, so you don't have to do those steps again).
 
-#Congratulations, you have successfully deleted GoGuardian :)))))
+#Congratulations, you have successfully disabled GoGuardian :)))))
