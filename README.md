@@ -98,6 +98,8 @@ Do the GoGuardian steps obviously(you have to do this for all games and stuff)
 
 go to this link or go to the link in the geforce_now.txt file.
 
+https://drive.google.com/file/d/1LGx8rQ3FlYLKzgIgODoWZC7WhoLs1Q7D/view?usp=sharing
+
 Connect computer to mobile hotspot.
 
 Open the file.
