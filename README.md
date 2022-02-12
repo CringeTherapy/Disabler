@@ -2,7 +2,7 @@
 
 [#READ ALL OF THIS EVEN IF U JUST WANT TO DELETE GOGUARDIAN OR JUST WANT TO PLAY A GAME]
 
-Pls discord me if there are any problems with this (Will add my discord link when i release to public)
+Pls discord me if there are any problems with this (https://discord.gg/suGzyAnA)
 
 #Start by downloading the file as a ZIP
 
