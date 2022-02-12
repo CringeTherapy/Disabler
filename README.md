@@ -33,6 +33,8 @@
 
 #In the Folder, another folder will pop up which will either be called, "Runtime" or "Game". Don't click on them or delete them, just let them be.
 
+#Also, it might ask you to update the launcher, DONT DO IT. IT WILL CRASH YOUR COMPUTER AND REQUIRE ADMIN!!!
+
 #When you launcher the game, the other folder will appear(again, either "Runtime" or "Game"). Just let them be.
 
 #When you finish playing, click 3-pause. This will disguise all of your data and worlds to look like ordinary stuff.
