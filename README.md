@@ -98,6 +98,8 @@ Now you can choose ANY GAME!!!!
 
 #NO-ADMIN TLAUNCHER (FREE MINECRAFT JAVA IN BETA v1.3), NO-ADMIN ROBLOX(IN BETA v1.4.1), AND NO-ADMIN ADOBE FLASH PLAYER WITH A TON OF OLD COOLMATH GAMES WHICH DONT WORK ON THE ACTUAL WEBSITE ANYMORE COMING SOON(IN ALPHA 1.0)!!!!
 
+Also in Beta 1.3.9, i added 7zip forgot to put it in the changelog lol
+
 Anytime you get the not safe screen, just click the underlined text and click run anyway, because u can see the code and its not bad at all lol.
 
 All the Ghost Code for the other games that aren't minecraft will be added in complete version 1.0
