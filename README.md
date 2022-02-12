@@ -1,4 +1,4 @@
-#Disabler Beta v1.3.9 Instructions FOR GOGUARDIAN
+#Disabler Beta v1.4 Instructions FOR GOGUARDIAN
 
 For those of you who want to use windows on chromebook, just go to this website lol(the free trial doesnt need credit card):
 
