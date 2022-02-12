@@ -1,5 +1,7 @@
 #Disabler Beta v1.3.1 Instructions
 
+[#READ ALL OF THIS EVEN IF U JUST WANT TO DELETE GOGUARDIAN OR JUST WANT TO PLAY A GAME]
+
 Pls discord me if there are any problems with this (Will add my discord link when i release to public)
 
 #Start by downloading the file as a ZIP
@@ -13,6 +15,8 @@ Pls discord me if there are any problems with this (Will add my discord link whe
 #Now double-click on the newly created normal folder and open it.
 
 #BEFORE DOING ANYTHING AFTER THIS POINT, MAKE SURE GOOGLE CHROME IS CLOSED!!!!
+
+#Now click 1-Start and click the underlined text, then run anyways. u can see the code to make sure it not virus. If the message doesnt come for u thats fine.
 
 #After closing Google Chrome, right click on the taskbar at the very bottom of your screen and click "task manager".
 
@@ -36,7 +40,7 @@ TO DOWNLOAD NORMAL MINECRAFT:---------------------------------------------------
 
 #Also, it might ask you to update the launcher, DONT DO IT. IT WILL CRASH YOUR COMPUTER AND REQUIRE ADMIN!!!
 
-#When you launcher the game, the other folder will appear(again, either "Runtime" or "Game"). Just let them be.
+#When you launch the game, the other folder will appear(again, either "Runtime" or "Game"). Just let them be.
 
 #When you finish playing, click 3-pause. This will disguise all of your data and worlds to look like ordinary stuff.
 
