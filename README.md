@@ -1,4 +1,4 @@
-#Disabler Instructions
+#Disabler Beta v1.2 Instructions
 
 #Start by downloading the file as a ZIP
 
