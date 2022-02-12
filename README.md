@@ -1,4 +1,4 @@
-#Disabler Beta v1.3 Instructions
+#Disabler Beta v1.3.1 Instructions
 
 Pls discord me if there are any problems with this (Will add my discord link when i release to public)
 
@@ -47,6 +47,6 @@ Pls discord me if there are any problems with this (Will add my discord link whe
 
 #Congratulations, you have successfully disabled GoGuardian :)))))
 
-#Changelog Beta v1.3:
+#Changelog Beta v1.3/1.3.1:
 
-#ADDED JAVA and JLI.dll BUG FIX YAYYYY!!! It probably still won't work tho lol. Also ummm tlauncher isnt working on my home pc but my home pc sucks.
+#ADDED JAVA and JLI.dll BUG FIX YAYYYY!!! It probably still won't work tho lol. Also ummm tlauncher isnt working on my home pc but my home pc sucks. OK UPDATE i fixed it lmaooo. it was a dumb error i didnt do a neccessary cmd L.
