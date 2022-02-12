@@ -66,6 +66,10 @@ TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):------------------------------------------
 
 #Congratulations, you have successfully disabled GoGuardian :)))))
 
+TO GET ROBLOX--------------------------------------------------------------------------------------
+
+#Just open 2-Roblox, the only thing u have to do is follow the GoGuardian disabler steps. U will also 100% need to connect to a mobile hotspot unless u use apponfly.
+
 
 
 
