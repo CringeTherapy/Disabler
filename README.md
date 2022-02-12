@@ -1,4 +1,4 @@
-#Disabler Beta v1.3.9 Instructions
+#Disabler Beta v1.3.9 Instructions FOR GOGUARDIAN
 
 [#READ ALL OF THIS EVEN IF U JUST WANT TO DELETE GOGUARDIAN OR JUST WANT TO PLAY A GAME]
 
