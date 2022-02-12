@@ -94,9 +94,17 @@ Now you can choose ANY GAME!!!!
 
 TO USE NVIDIA GEFORCE NOW(Play any steam game that you own with high framerates using Cloud Gaming)----------
 
-Do the GoGuardian steps obviously()
+Do the GoGuardian steps obviously(you have to do this for all games and stuff)
 
+go to this link or go to the link in the geforce_now.txt file.
 
+Connect computer to mobile hotspot.
+
+Open the file.
+
+Log in to Nvidia and Steam.
+
+Now u can play!!
 
 #Changelog Alpha v1.1:
 
