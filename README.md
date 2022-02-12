@@ -56,7 +56,7 @@ TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):------------------------------------------
 
 #Now extract that and add it with all the other files like 1-start and stuff.
 
-#After that click 2-Tlauncher. Then set a name for urself and click launch download. (to do this u have to have a phone and have ur hotspot connected to the computer, bug fix for that coming in Alpha 1.2).
+#After that click 2-Tlauncher. Then set a name for urself and click launch download. (to do this u have to have a phone and have ur hotspot connected to the computer, bug fix for that coming in Beta 1.3.9.5).
 
 #Ok thats it for now
 
