@@ -1,5 +1,7 @@
 #Disabler Beta v1.2 Instructions
 
+#NO-ADMIN TLAUNCHER (FREE MINECRAFT JAVA), NO-ADMIN ROBLOX, AND NO-ADMIN NATIVE ADOBE FLASH PLAYER WITH A TON OF OLD COOLMATH GAMES WHICH DONT WORK ON THE ACTUAL WEBSITE ANYMORE COMING SOON!!!!
+
 #Start by downloading the file as a ZIP
 
 #After that, find it in your downloads folder (or click on the arrow next to the file at the bottom of your chrome window and click "Show in folder").
