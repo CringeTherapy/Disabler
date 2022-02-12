@@ -46,11 +46,9 @@ TO DOWNLOAD NORMAL MINECRAFT:---------------------------------------------------
 
 TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):-------------------------------------------------------------
 
-#So, first start by opening normal minecraft. then login with a random microsoft or mojang account that you havent bought minecraft on
+#So first, start by opening this google drive link [insert here]
 
-#Then launch the demo version.
-
-#Dont enter a singleplayer world, just launch it, then close the window.
+#Now extract that and add it with all the other files like 1-start and stuff.
 
 #After that click 2-Tlauncher. Then set a name for urself and click launch download. (to do this u have to have a phone and have ur hotspot connected to the computer, bug fix for that coming in Alpha 1.2).
 
@@ -66,3 +64,5 @@ TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):------------------------------------------
 #ADDED JAVA and JLI.dll BUG FIX YAYYYY!!! It probably still won't work tho lol. Also ummm tlauncher isnt working on my home pc but my home pc sucks. OK UPDATE i fixed it lmaooo. it was a dumb error i didnt do a neccessary cmd L.
 
 #NO-ADMIN TLAUNCHER (FREE MINECRAFT JAVA IN BETA v1.3), NO-ADMIN ROBLOX(IN BETA v1.4), AND NO-ADMIN NATIVE ADOBE FLASH PLAYER WITH A TON OF OLD COOLMATH GAMES WHICH DONT WORK ON THE ACTUAL WEBSITE ANYMORE COMING SOON(IN ALPHA 1.1)!!!!
+
+Anytime you get the not safe screen, just click the underlined text and click run anyway, because u can see the code and its not bad at all lol.
