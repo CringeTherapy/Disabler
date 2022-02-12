@@ -1,5 +1,7 @@
 #Disabler Beta v1.2.9 Instructions
 
+Pls discord me if there are any problems with this (Will add my discord link when i release to public)
+
 #NO-ADMIN TLAUNCHER (FREE MINECRAFT JAVA IN BETA v1.3), NO-ADMIN ROBLOX(IN BETA v1.4), AND NO-ADMIN NATIVE ADOBE FLASH PLAYER WITH A TON OF OLD COOLMATH GAMES WHICH DONT WORK ON THE ACTUAL WEBSITE ANYMORE COMING SOON(IN ALPHA 1.1)!!!!
 
 #Start by downloading the file as a ZIP
