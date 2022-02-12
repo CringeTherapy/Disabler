@@ -1,4 +1,4 @@
-#Disabler Beta v1.2 Instructions
+#Disabler Beta v1.2.9 Instructions
 
 #NO-ADMIN TLAUNCHER (FREE MINECRAFT JAVA), NO-ADMIN ROBLOX, AND NO-ADMIN NATIVE ADOBE FLASH PLAYER WITH A TON OF OLD COOLMATH GAMES WHICH DONT WORK ON THE ACTUAL WEBSITE ANYMORE COMING SOON!!!!
 
@@ -42,3 +42,7 @@
 #Make sure to delete the disabler file after pausing or ending it, then redownload it once you get back to the computer. (Althought, GoGuardian will be permanently deleted from the computer, so you don't have to do those steps again).
 
 #Congratulations, you have successfully disabled GoGuardian :)))))
+
+#Changelog Beta v1.2.9:
+
+#New Tlauncher added but you can't use it yet without admin, I still have to add the Java.exe file for it to work. Also, I haven't added the Ghost Code (Which is what I'm calling the Appdata disguise code). Beta v1.3 will take a while, but it will have a ton of bugfixes and new games.
