@@ -1,12 +1,12 @@
 #Disabler Beta v1.4 Instructions FOR GOGUARDIAN
 
-For those of you who want to use windows on chromebook, just go to this website lol(the free trial doesnt need credit card):
+#For those of you who want to use windows on chromebook, just go to this website lol(the free trial doesnt need credit card):
 
-https://www.apponfly.com/windows-vps
+#https://www.apponfly.com/windows-vps
 
-[#READ ALL OF THIS EVEN IF U JUST WANT TO DELETE GOGUARDIAN OR JUST WANT TO PLAY A GAME]
+#[READ ALL OF THIS EVEN IF U JUST WANT TO DELETE GOGUARDIAN OR JUST WANT TO PLAY A GAME]
 
-Pls discord me if there are any problems with this (https://discord.gg/suGzyAnA)
+#Pls discord me if there are any problems with this (https://discord.gg/suGzyAnA)
 
 #Start by downloading the file as a ZIP
 
@@ -22,13 +22,7 @@ Pls discord me if there are any problems with this (https://discord.gg/suGzyAnA)
 
 #Now click 1-Start and click the underlined text, then run anyways. u can see the code to make sure it not virus. If the message doesnt come for u thats fine.
 
-#After closing Google Chrome, right click on the taskbar at the very bottom of your screen and click "task manager".
-
-#Now scroll down until you see lots of Google Chromes.
-
-#Right click on each on of them and click "end task", until all of them close(Just spam it).
-
-#Now restart the computer.
+#Restart the computer.
 
 #Log Back in and open Google.
 
