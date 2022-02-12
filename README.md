@@ -48,7 +48,9 @@ TO DOWNLOAD NORMAL MINECRAFT:---------------------------------------------------
 
 TO DOWNLOAD FREE MINECRAFT(TLAUNCHER):-------------------------------------------------------------
 
-#So first, start by opening this google drive link https://doc-40-6g-drive-data-export.googleusercontent.com/download/a3rb9j313c2ul2ofi0sfgd61ttp10mmt/hjl621urhnstk2049in0h3oo7oe0fj52/1644687000000/843380b5-40da-4d97-a22e-fc41e77806d2/113914931639690352649/ADt3v-PRmzpk-_NVDyhZx7xHDW6yeqHuW0w7MUN0Mdn2_NstKkkDYoGs3cOIZvn5ivGUIc-44XKVeqeZtE1Nait-MWJcvmQaoM7pCiA4-lUPYEZVPLfDIIpL5KqIJYgwJSt46LjP6Pd2VTgCXhrqx6ynA64an1IuNy8AKYXlUcMtVb-8Kq8aj76goHAmkVsuk_JfwouXlfgNSk0VNzJDA4wazrXYaMhxvA61hgHYjCze1YoGASmamgEqY-HO_CcWmjtd8Gu-PgtMRzuRjVN5ygXfPBxzijUlI1tVPzXy1rlGnbNcxZLj7G1PNtRrFj2e2MdS8mMmupHr?authuser=0&nonce=lrc28ps36gghq&user=113914931639690352649&hash=81fet5n7conhh1fkbddoanogrh5c2dm9
+#So first, start by opening this google drive link https://drive.google.com/drive/folders/17Fj2_fcETkiH5rjTEKg8cIaIOVgfBATG?usp=sharing
+
+#Click Download all in the top right corner of the webpage.
 
 #When u download it, extract the zipped folder it made.
 
