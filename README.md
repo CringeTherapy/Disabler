@@ -42,9 +42,9 @@ TO DOWNLOAD NORMAL MINECRAFT:---------------------------------------------------
 
 #When you finish playing, click ghost. This will disguise all of your data and worlds to look like ordinary stuff.
 
-#Unless you want to delete your worlds and data completely, dont click 4-End, unless you're switching desks or something.
+#Unless you want to delete your worlds and data completely, dont click 4-Fullghost, unless you're switching desks or something.
 
-#Make sure to delete the disabler file after pausing or ending it, then redownload it once you get back to the computer. (Althought, GoGuardian will be permanently deleted from the computer, so you don't have to do those steps again).
+#Make sure to delete the disabler file after ghosting or fullghosting it, then redownload it once you get back to the computer. (Althought, GoGuardian will be permanently deleted from the computer, so you don't have to do those steps again).
 
 #when u get back, just click unghost and it will restore all ur data if you ghosted it
 
