@@ -1,1 +1,0 @@
-ren %appdata%\GoGuardian .minecraft
