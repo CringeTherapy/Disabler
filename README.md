@@ -1,4 +1,4 @@
-#Disabler Alpha 1.1 Instructions FOR GOGUARDIAN and a Gamer kit for all school computers and none require admin.
+#Disabler Alpha 1.5 Instructions FOR GOGUARDIAN and a Gamer kit for all school computers and none require admin.
 
 #For those of you who want to use windows on chromebook, just go to this website lol(the free trial doesnt need credit card):
 
@@ -110,7 +110,7 @@ Log in to Nvidia and Steam.
 
 Now u can play!!
 
-#Changelog Alpha v1.1:
+#Changelog Alpha v1.5:
 
 #ADDED JAVA and JLI.dll BUG FIX YAYYYY!!! It probably still won't work tho lol. Also ummm tlauncher isnt working on my home pc but my home pc sucks. OK UPDATE i fixed it lmaooo. it was a dumb error i didnt do a neccessary cmd L.
 
@@ -120,6 +120,6 @@ Also in Beta 1.3.9, i added 7zip forgot to put it in the changelog lol
 
 Anytime you get the not safe screen, just click the underlined text and click run anyway, because u can see the code and its not bad at all lol.
 
-All the Ghost Code for the other games that aren't minecraft will be added in complete version 1.0
+LETS FRICKING GO I ADDED THE GHOST CODE
 
 GEFORCE NOW IS ADDED LETSGOOOO
