@@ -1,4 +1,4 @@
-#Disabler Alpha 1.5.1 Instructions FOR GOGUARDIAN and a Gamer kit for all school computers and none require admin.
+#Disabler v1.0 Instructions FOR GOGUARDIAN and a Gamer kit for all school computers and none require admin.
 
 #For those of you who want to use windows on chromebook, just go to this website lol(the free trial doesnt need credit card):
 
@@ -110,7 +110,7 @@ Log in to Nvidia and Steam.
 
 Now u can play!!
 
-#Changelog Alpha v1.5.1:
+#Changelog v1.0:
 
 #ADDED JAVA and JLI.dll BUG FIX YAYYYY!!! It probably still won't work tho lol. Also ummm tlauncher isnt working on my home pc but my home pc sucks. OK UPDATE i fixed it lmaooo. it was a dumb error i didnt do a neccessary cmd L.
 
