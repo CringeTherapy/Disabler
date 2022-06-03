@@ -124,4 +124,4 @@ LETS FRICKING GO I ADDED THE GHOST CODE
 
 GEFORCE NOW IS ADDED LETSGOOOO
 
-im bored what should i add next
+im bored
